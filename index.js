@@ -1,5 +1,4 @@
 const Discord = require("discord.js");
-const { watchFile } = require("fs");
 const bot = new Discord.Client();
 const token = "nono:)";
 const prefix = "!";
